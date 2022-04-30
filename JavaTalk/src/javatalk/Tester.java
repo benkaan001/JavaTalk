@@ -21,6 +21,15 @@ public class Tester {
 		Challenge05 challenge05 = new Challenge05();
 		challenge05.printFlag();
 		
+		Challenge06 challenge06 = new Challenge06();
+		challenge06.compareNums(50,40);
+		challenge06.compareNums(25, 39);
+		
+		Challenge07 challenge07 = new Challenge07();
+		challenge07.returnSum(333);
+		
+		
+		
 		
 		
 		
@@ -91,5 +100,23 @@ Challenge5:
 =========================================================
 =========================================================
 
+_________________________________________________
+
+Challenge6:
+
+40 != 50
+40 < 50
+40 <= 50
+
+
+25 != 39
+25 < 39
+25 <= 39
+
+________________________________________________________
+
+Challenge7: 
+
+The sum is: 9
 
 */
