@@ -28,6 +28,9 @@ public class Tester {
 		Challenge07 challenge07 = new Challenge07();
 		challenge07.returnSum(333);
 		
+		Challenge08 challenge08 = new Challenge08();
+		challenge08.printFizzBuzz(25);
+		
 		
 		
 		
@@ -118,5 +121,35 @@ ________________________________________________________
 Challenge7: 
 
 The sum is: 9
+
+_______________________________________________________
+
+Challenge8:
+
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+16
+17
+Fizz
+19
+Buzz
+Fizz
+22
+23
+Fizz
+Buzz
 
 */
