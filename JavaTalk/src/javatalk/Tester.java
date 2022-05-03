@@ -39,6 +39,9 @@ public class Tester {
 		Challenge10 challenge10 = new Challenge10();
 		challenge10.reverseString("The quick brown fox");
 		
+		Challenge11 challenge11 = new Challenge11();
+		challenge11.isArmstrong(153); 
+		
 		
 			
 		
@@ -185,6 +188,11 @@ Challenge10:
 The reversal of The quick brown fox is: 
 xof nworb kciuq ehT
 
+_____________________________________________________-
+
+Challenge11:
+
+Yes 
 
 
 */

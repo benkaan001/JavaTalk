@@ -13,6 +13,7 @@ public class Challenge10 {
 		for(int i=inputStringChars.length-1; i>=0; i--) {
 			System.out.print(inputStringChars[i]);
 		}
+		System.out.println("\n");
 		
 	}
 	
