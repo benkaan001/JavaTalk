@@ -42,6 +42,11 @@ public class Tester {
 		Challenge11 challenge11 = new Challenge11();
 		challenge11.isArmstrong(153); 
 		
+		Challenge12 challenge12 = new Challenge12();
+		challenge12.returnRandomDay();
+		
+		Challenge13 challenge13 = new Challenge13();
+		System.out.println(challenge13.isLeapYear(2015));	
 		
 			
 		
@@ -188,11 +193,26 @@ Challenge10:
 The reversal of The quick brown fox is: 
 xof nworb kciuq ehT
 
-_____________________________________________________-
+_____________________________________________________
 
 Challenge11:
 
 Yes 
+
+_______________________________________________________
+
+Challenge12:
+
+Your lucky number is 1;
+Your lucky day must be Monday
+
+________________________________________________
+
+Challenge13:
+
+false
+
+____________________________________________________
 
 
 */
