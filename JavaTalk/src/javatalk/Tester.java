@@ -48,6 +48,9 @@ public class Tester {
 		Challenge13 challenge13 = new Challenge13();
 		System.out.println(challenge13.isLeapYear(2015));	
 		
+		Challenge14 challenge14 = new Challenge14();
+		challenge14.processString("Aa kiu, I swd skieo 236587. GH kiu: sieo?? 25.33");
+		
 			
 		
 		
@@ -213,6 +216,15 @@ Challenge13:
 false
 
 ____________________________________________________
+
+Challenge14:
+
+In the string 'Aa kiu, I swd skieo 236587. GH kiu: sieo?? 25.33' 
+There are 23 letters, 10 numbers,9 spaces, 6 other characters!
+
+_____________________________________________________
+
+Challenge15:
 
 
 */
