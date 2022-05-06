@@ -51,6 +51,9 @@ public class Tester {
 		Challenge14 challenge14 = new Challenge14();
 		challenge14.processString("Aa kiu, I swd skieo 236587. GH kiu: sieo?? 25.33");
 		
+		Challenge15 challenge15 = new Challenge15();
+		challenge15.reverseArray();
+		
 			
 		
 		
@@ -225,6 +228,14 @@ There are 23 letters, 10 numbers,9 spaces, 6 other characters!
 _____________________________________________________
 
 Challenge15:
+
+[9, 8, 7, 6, 5, 4, 3, 2, 1]
+
+
+______________________________________________________
+
+Challenge16:
+
 
 
 */
