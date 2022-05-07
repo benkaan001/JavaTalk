@@ -54,6 +54,9 @@ public class Tester {
 		Challenge15 challenge15 = new Challenge15();
 		challenge15.reverseArray();
 		
+		Challenge16 challenge16 = new Challenge16();
+		challenge16.findMinMax();
+		
 			
 		
 		
@@ -236,6 +239,12 @@ ______________________________________________________
 
 Challenge16:
 
+Given the inputArray of [9, 2, 0, 3, 14, 501, 1, 6, -99, 8, 2, -99, 1, 4]
+Mininum value is -99
+Maximum is 501
 
+_______________________________________________________
+
+Challenge17:
 
 */
