@@ -36,28 +36,30 @@ public class Tester {
 //		double[] coordinates2 = {35, 25.5};
 //		challenge09.calculateDistance(coordinates1, coordinates2);
 		
-		Challenge10 challenge10 = new Challenge10();
-		challenge10.reverseString("The quick brown fox");
+//		Challenge10 challenge10 = new Challenge10();
+//		challenge10.reverseString("The quick brown fox");
+//		
+//		Challenge11 challenge11 = new Challenge11();
+//		challenge11.isArmstrong(153); 
+//		
+//		Challenge12 challenge12 = new Challenge12();
+//		challenge12.returnRandomDay();
+//		
+//		Challenge13 challenge13 = new Challenge13();
+//		System.out.println(challenge13.isLeapYear(2015));	
+//		
+//		Challenge14 challenge14 = new Challenge14();
+//		challenge14.processString("Aa kiu, I swd skieo 236587. GH kiu: sieo?? 25.33");
+//		
+//		Challenge15 challenge15 = new Challenge15();
+//		challenge15.reverseArray();
+//		
+//		Challenge16 challenge16 = new Challenge16();
+//		challenge16.findMinMax();
 		
-		Challenge11 challenge11 = new Challenge11();
-		challenge11.isArmstrong(153); 
-		
-		Challenge12 challenge12 = new Challenge12();
-		challenge12.returnRandomDay();
-		
-		Challenge13 challenge13 = new Challenge13();
-		System.out.println(challenge13.isLeapYear(2015));	
-		
-		Challenge14 challenge14 = new Challenge14();
-		challenge14.processString("Aa kiu, I swd skieo 236587. GH kiu: sieo?? 25.33");
-		
-		Challenge15 challenge15 = new Challenge15();
-		challenge15.reverseArray();
-		
-		Challenge16 challenge16 = new Challenge16();
-		challenge16.findMinMax();
-		
-			
+		Challenge17 challenge17 = new Challenge17();
+		challenge17.findDuplicates();			
+		challenge17.findDuplicates2();
 		
 		
 		
@@ -246,5 +248,20 @@ Maximum is 501
 _______________________________________________________
 
 Challenge17:
+
+0 is a duplicate!
+1 is a duplicate!
+2 is a duplicate!
+********************************
+0 is a duplicate!
+4 is a duplicate!
+99 is a duplicate!
+You have a total of 3 duplicate values.
+
+______________________________________________________
+
+Challenge18: 
+
+
 
 */
