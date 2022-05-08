@@ -61,6 +61,9 @@ public class Tester {
 		challenge17.findDuplicates();			
 		challenge17.findDuplicates2();
 		
+		Challenge18 challenge18 = new Challenge18();
+		challenge18.findCommonElements();
+		
 		
 		
 
@@ -261,6 +264,12 @@ You have a total of 3 duplicate values.
 ______________________________________________________
 
 Challenge18: 
+
+JaVA JS REACT [JaVA, JS, REACT]
+
+__________________________________________
+
+Challenge19:
 
 
 
