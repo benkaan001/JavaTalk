@@ -57,13 +57,15 @@ public class Tester {
 //		Challenge16 challenge16 = new Challenge16();
 //		challenge16.findMinMax();
 		
-		Challenge17 challenge17 = new Challenge17();
-		challenge17.findDuplicates();			
-		challenge17.findDuplicates2();
+//		Challenge17 challenge17 = new Challenge17();
+//		challenge17.findDuplicates();			
+//		challenge17.findDuplicates2();
+//		
+//		Challenge18 challenge18 = new Challenge18();
+//		challenge18.findCommonElements();
 		
-		Challenge18 challenge18 = new Challenge18();
-		challenge18.findCommonElements();
-		
+		Challenge19 challenge19 = new Challenge19();
+		challenge19.calcAverage();
 		
 		
 
@@ -270,6 +272,14 @@ JaVA JS REACT [JaVA, JS, REACT]
 __________________________________________
 
 Challenge19:
+
+After we eliminate 1 and 50 from the original array [1, 10, 20, 30, 35, 40, 50]
+We are left with: 10 20 30 35 40 
+And the average is: 27.0
+
+____________________________________________
+
+Challenge20: 
 
 
 
