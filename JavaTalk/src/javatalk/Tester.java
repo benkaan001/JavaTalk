@@ -67,6 +67,9 @@ public class Tester {
 		Challenge19 challenge19 = new Challenge19();
 		challenge19.calcAverage();
 		
+		Challenge20 challenge20 = new Challenge20();
+		System.out.println(challenge20.hasZeroOrOne());
+		
 		
 
 		
@@ -281,6 +284,13 @@ ____________________________________________
 
 Challenge20: 
 
+true
+
+____________________________________________
+
+Challenge21:
+
+_______________________________________________
 
 
 */
