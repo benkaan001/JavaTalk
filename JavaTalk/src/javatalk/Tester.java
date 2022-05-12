@@ -64,11 +64,15 @@ public class Tester {
 //		Challenge18 challenge18 = new Challenge18();
 //		challenge18.findCommonElements();
 		
-		Challenge19 challenge19 = new Challenge19();
-		challenge19.calcAverage();
+//		Challenge19 challenge19 = new Challenge19();
+//		challenge19.calcAverage();
+//		
+//		Challenge20 challenge20 = new Challenge20();
+//		System.out.println(challenge20.hasZeroOrOne());
 		
-		Challenge20 challenge20 = new Challenge20();
-		System.out.println(challenge20.hasZeroOrOne());
+		Challenge21 challenge21 = new Challenge21();
+		challenge21.hasContents();
+		challenge21.endsWith();
 		
 		
 
@@ -290,7 +294,13 @@ ____________________________________________
 
 Challenge21:
 
+Python Exercises ends with se is false
+Python Exercise ends with se is true
+
 _______________________________________________
 
+Challenge22:
+
+_____________________________________________
 
 */
