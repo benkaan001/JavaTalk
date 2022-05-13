@@ -303,6 +303,16 @@ _______________________________________________
 
 Challenge22:
 
+Today's date in the format of MM/dd/yyyy : 05/13/2022
+Today's date in the newer format E, MMMM dd, yyyy HH:mm a : 
+Fri, May 13, 2022 
+00:22 AM
+
 _____________________________________________
+
+Challenge23: 
+
+
+________________________________________________
 
 */
