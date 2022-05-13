@@ -74,6 +74,8 @@ public class Tester {
 		challenge21.hasContents();
 		challenge21.endsWith();
 		
+		Challenge22 challenge22 = new Challenge22();
+		challenge22.printCurrentDate();		
 		
 
 		
