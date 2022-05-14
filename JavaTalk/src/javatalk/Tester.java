@@ -70,12 +70,15 @@ public class Tester {
 //		Challenge20 challenge20 = new Challenge20();
 //		System.out.println(challenge20.hasZeroOrOne());
 		
-		Challenge21 challenge21 = new Challenge21();
-		challenge21.hasContents();
-		challenge21.endsWith();
+//		Challenge21 challenge21 = new Challenge21();
+//		challenge21.hasContents();
+//		challenge21.endsWith();
+//		
+//		Challenge22 challenge22 = new Challenge22();
+//		challenge22.printCurrentDate();		
 		
-		Challenge22 challenge22 = new Challenge22();
-		challenge22.printCurrentDate();		
+		Challenge23 challenge23 = new Challenge23();
+		challenge23.modifyString();
 		
 
 		
@@ -312,6 +315,10 @@ _____________________________________________
 
 Challenge23: 
 
+The quick brown cat jumps over the lazy dog
+________________________________________________
+
+Challenge24:
 
 ________________________________________________
 
