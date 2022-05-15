@@ -80,6 +80,9 @@ public class Tester {
 		Challenge23 challenge23 = new Challenge23();
 		challenge23.modifyString();
 		
+		Challenge24 challenge24 = new Challenge24();
+		challenge24.removeDuplicates();
+		
 
 		
 		
@@ -320,6 +323,13 @@ ________________________________________________
 
 Challenge24:
 
+[c, o, l, s, t, r, i, n, g]
+betrsing
+
 ________________________________________________
 
+Challenge25:
+
+
+_______________________________________________
 */
