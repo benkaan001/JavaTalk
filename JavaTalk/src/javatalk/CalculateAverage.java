@@ -2,7 +2,7 @@ package javatalk;
 
 import java.util.Arrays;
 
-public class Challenge19 {
+public class CalculateAverage {
 	//Write a Java program to compute the average value of an array of integers except the largest and smallest values.
 	
 	public void calcAverage() {

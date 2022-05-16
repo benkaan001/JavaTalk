@@ -1,6 +1,6 @@
 package javatalk;
 
-public class Challenge14 {
+public class CharCount {
 	
 	// Write a Java program to count the letters, spaces, numbers and other characters of an input string
 	

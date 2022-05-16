@@ -1,6 +1,6 @@
 package javatalk;
 
-public class Challenge08 {
+public class FizzBuzz {
 	
 	// Write a FizzBuzz program that outputs numbers from 1 to input num...
 	

@@ -2,7 +2,7 @@ package javatalk;
 
 import java.util.ArrayList;
 
-public class Challenge18 {
+public class FindComonElements {
 	// Write a Java program to find the common elements between two arrays (string values).
 	
 	String [] array1 = {"JaVA", "JS", "CSS", "HTML", "NODE", "REACT", "MONGODB"};

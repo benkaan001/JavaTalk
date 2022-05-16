@@ -77,11 +77,14 @@ public class Tester {
 //		Challenge22 challenge22 = new Challenge22();
 //		challenge22.printCurrentDate();		
 		
-		Challenge23 challenge23 = new Challenge23();
+		ReplaceSubString challenge23 = new ReplaceSubString();
 		challenge23.modifyString();
 		
-		Challenge24 challenge24 = new Challenge24();
+		RemoveDuplicates challenge24 = new RemoveDuplicates();
 		challenge24.removeDuplicates();
+		
+		StringToCharArray challenge25 = new StringToCharArray();
+		challenge25.createCharArray();
 		
 
 		
@@ -330,6 +333,10 @@ ________________________________________________
 
 Challenge25:
 
+Java Exercises
+_______________________________________________
+
+Challenge26:
 
 _______________________________________________
 */

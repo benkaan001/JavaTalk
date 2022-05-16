@@ -1,6 +1,6 @@
 package javatalk;
 
-public class Challenge10 {
+public class ReverseString {
 	
 	// Write a Java program to reverse a string
 	

@@ -3,7 +3,7 @@ package javatalk;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class Challenge22 {
+public class PrintCurrentDate {
 	//  Write a Java program to print current date and time in the specified format.
 	
 	// Current Date and Time :                                                                                       

@@ -1,6 +1,6 @@
 package javatalk;
 
-public class Challenge12 {
+public class ReturnRandomDay {
 	
 	public void returnRandomDay() {
 		

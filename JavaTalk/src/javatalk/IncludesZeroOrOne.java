@@ -1,6 +1,6 @@
 package javatalk;
 
-public class Challenge20 {
+public class IncludesZeroOrOne {
 //	Write a Java program to check if an array of integers is without 0 or -1
 	
 	public boolean hasZeroOrOne() {

@@ -1,6 +1,6 @@
 package javatalk;
 
-public class Challenge11 {
+public class ArmstrongNum {
 	
 	public void isArmstrong (int num) {
 		/*

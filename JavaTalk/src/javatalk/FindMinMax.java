@@ -2,7 +2,7 @@ package javatalk;
 
 import java.util.Arrays;
 
-public class Challenge16 {
+public class FindMinMax {
 	//Write a Java program to find the maximum and minimum value of an array.
 	
 	public void findMinMax() {

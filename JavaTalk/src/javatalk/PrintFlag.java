@@ -1,6 +1,6 @@
 package javatalk;
 
-public class Challenge05 {
+public class PrintFlag {
 
 	public void printFlag() {
 

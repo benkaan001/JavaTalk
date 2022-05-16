@@ -2,7 +2,7 @@ package javatalk;
 
 import java.util.Arrays;
 
-public class Challenge17 {
+public class FindDuplicateInts {
 	//Write a Java program to find the duplicate values of an array of integer values
 	
 	public void findDuplicates() {

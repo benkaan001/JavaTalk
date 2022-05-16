@@ -4,7 +4,7 @@ package javatalk;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class Challenge24 {
+public class RemoveDuplicates {
 	// Write a Java program to print after removing duplicates from a given string
 	
 	//The given string is: w3resource

@@ -1,6 +1,6 @@
 package javatalk;
 
-public class Challenge06 {
+public class CompareTwoNums {
 	
 	// Write a Java program to compare two numbers
 	/*

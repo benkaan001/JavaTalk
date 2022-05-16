@@ -2,7 +2,7 @@ package javatalk;
 
 import java.util.Arrays;
 
-public class Challenge15 {
+public class ReverseIntArray {
 	
 	// Write a Java program to reverse an array of integer values.
 	
