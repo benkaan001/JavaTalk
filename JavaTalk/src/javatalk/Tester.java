@@ -77,14 +77,18 @@ public class Tester {
 //		Challenge22 challenge22 = new Challenge22();
 //		challenge22.printCurrentDate();		
 		
-		ReplaceSubString challenge23 = new ReplaceSubString();
-		challenge23.modifyString();
+//		ReplaceSubString challenge23 = new ReplaceSubString();
+//		challenge23.modifyString();
+//		
+//		RemoveDuplicates challenge24 = new RemoveDuplicates();
+//		challenge24.removeDuplicates();
+//		
+//		StringToCharArray challenge25 = new StringToCharArray();
+//		challenge25.createCharArray();
 		
-		RemoveDuplicates challenge24 = new RemoveDuplicates();
-		challenge24.removeDuplicates();
+		MostOccuringChar challenge26 = new MostOccuringChar();
+		challenge26.mostOccuringChar();
 		
-		StringToCharArray challenge25 = new StringToCharArray();
-		challenge25.createCharArray();
 		
 
 		
@@ -338,5 +342,12 @@ _______________________________________________
 
 Challenge26:
 
+e 
+
 _______________________________________________
+
+Challenge27:
+
+
+_____________________________________________
 */
