@@ -89,6 +89,9 @@ public class Tester {
 		MostOccuringChar challenge26 = new MostOccuringChar();
 		challenge26.mostOccuringChar();
 		
+		FirstRepeatingChar challenge27 = new FirstRepeatingChar();
+		challenge27.findFirstRepeatingChar();
+		
 		
 
 		
