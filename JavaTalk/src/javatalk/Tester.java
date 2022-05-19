@@ -86,11 +86,15 @@ public class Tester {
 //		StringToCharArray challenge25 = new StringToCharArray();
 //		challenge25.createCharArray();
 		
-		MostOccuringChar challenge26 = new MostOccuringChar();
-		challenge26.mostOccuringChar();
+//		MostOccuringChar challenge26 = new MostOccuringChar();
+//		challenge26.mostOccuringChar();
 		
 		FirstRepeatingChar challenge27 = new FirstRepeatingChar();
 		challenge27.findFirstRepeatingChar();
+		
+		FirstDigit challenge28 = new FirstDigit();
+		challenge28.returnFirstDigit();
+		
 		
 		
 
@@ -353,4 +357,8 @@ Challenge27:
 
 
 _____________________________________________
+
+Challenge28:
+
+6
 */
