@@ -89,11 +89,14 @@ public class Tester {
 //		MostOccuringChar challenge26 = new MostOccuringChar();
 //		challenge26.mostOccuringChar();
 		
-		FirstRepeatingChar challenge27 = new FirstRepeatingChar();
-		challenge27.findFirstRepeatingChar();
+//		FirstRepeatingChar challenge27 = new FirstRepeatingChar();
+//		challenge27.findFirstRepeatingChar();
+//		
+//		FirstDigit challenge28 = new FirstDigit();
+//		challenge28.returnFirstDigit();
 		
-		FirstDigit challenge28 = new FirstDigit();
-		challenge28.returnFirstDigit();
+		StringToInteger challenge29 = new StringToInteger();
+		challenge29.splitString();
 		
 		
 		
@@ -361,4 +364,18 @@ _____________________________________________
 Challenge28:
 
 6
+_____________________________________________
+
+Challenge29: 
+
+The first six digits are equal to last six digits.
+First Name is : Jane
+Last Name is : Doe
+
+_____________________________________________
+
+Challenge30:
+
+
+
 */
