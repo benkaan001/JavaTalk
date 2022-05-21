@@ -387,6 +387,14 @@ __________________________________________________
 
 Challenge31:
 
+Result using Arrays.sort() method : 8
+Result using ArrayList and Collections.sort() method : 8
 
+___________________________________________________
+
+Challenge32:
+
+
+_____________________________________________________
 
 */
