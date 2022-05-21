@@ -94,15 +94,16 @@ public class Tester {
 //		
 //		FirstDigit challenge28 = new FirstDigit();
 //		challenge28.returnFirstDigit();
+//		
+//		StringToInteger challenge29 = new StringToInteger();
+//		challenge29.splitString();
+//	
+//		
+//		Regex challenge30 = new Regex();
+//		System.out.println(challenge30.isMatch());
 		
-		StringToInteger challenge29 = new StringToInteger();
-		challenge29.splitString();
-	
-		
-		Regex challenge30 = new Regex();
-		System.out.println(challenge30.isMatch());
-		
-		
+		ArraySorting challenge31 = new ArraySorting();
+		challenge31.sortArray();
 
 		
 		
