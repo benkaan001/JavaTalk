@@ -97,7 +97,10 @@ public class Tester {
 		
 		StringToInteger challenge29 = new StringToInteger();
 		challenge29.splitString();
+	
 		
+		Regex challenge30 = new Regex();
+		System.out.println(challenge30.isMatch());
 		
 		
 
@@ -375,6 +378,13 @@ Last Name is : Doe
 _____________________________________________
 
 Challenge30:
+
+36
+true
+
+__________________________________________________
+
+Challenge31:
 
 
 
