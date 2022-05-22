@@ -102,8 +102,12 @@ public class Tester {
 //		Regex challenge30 = new Regex();
 //		System.out.println(challenge30.isMatch());
 		
-		ArraySorting challenge31 = new ArraySorting();
-		challenge31.sortArray();
+//		ArraySorting challenge31 = new ArraySorting();
+//		challenge31.sortArray();
+		
+		SortStringArray challenge32 = new SortStringArray();
+		challenge32.sortStringArray();
+		
 
 		
 		
@@ -394,6 +398,31 @@ ___________________________________________________
 
 Challenge32:
 
+_________________________________________________
+Ordered list at position 0: A
+Original index value: 4
+_________________________________________________
+Ordered list at position 1: Be
+Original index value: 3
+_________________________________________________
+Ordered list at position 2: Challenge
+Original index value: 6
+_________________________________________________
+Ordered list at position 3: Fun
+Original index value: 5
+_________________________________________________
+Ordered list at position 4: Gonna
+Original index value: 2
+_________________________________________________
+Ordered list at position 5: Is
+Original index value: 1
+_________________________________________________
+Ordered list at position 6: This
+Original index value: 0
+
+____________________________________________________
+
+Challenge33:
 
 _____________________________________________________
 
