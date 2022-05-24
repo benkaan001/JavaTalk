@@ -105,8 +105,11 @@ public class Tester {
 //		ArraySorting challenge31 = new ArraySorting();
 //		challenge31.sortArray();
 		
-		SortStringArray challenge32 = new SortStringArray();
-		challenge32.sortStringArray();
+//		SortStringArray challenge32 = new SortStringArray();
+//		challenge32.sortStringArray();
+		
+		ReverseArrayList challenge33 = new ReverseArrayList();
+		challenge33.reverse();
 		
 
 		
@@ -424,6 +427,17 @@ ____________________________________________________
 
 Challenge33:
 
+Given list -> [1, 2, 3, 4, 5]
+Reversed -> [5, 4, 3, 2, 1]
+Contents after reversing it back using Collections.reverse() method : 
+12345
+
 _____________________________________________________
+
+Challenge34:
+
+
+___________________________________________________
+
 
 */
