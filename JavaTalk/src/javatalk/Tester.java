@@ -108,9 +108,12 @@ public class Tester {
 //		SortStringArray challenge32 = new SortStringArray();
 //		challenge32.sortStringArray();
 		
-		ReverseArrayList challenge33 = new ReverseArrayList();
-		challenge33.reverse();
+//		ReverseArrayList challenge33 = new ReverseArrayList();
+//		challenge33.reverse();
 		
+		Challenge34 challenge34 = new Challenge34();
+		challenge34.findMatchingCharacters();
+
 
 		
 		
