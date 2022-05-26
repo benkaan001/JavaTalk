@@ -111,8 +111,11 @@ public class Tester {
 //		ReverseArrayList challenge33 = new ReverseArrayList();
 //		challenge33.reverse();
 		
-		Challenge34 challenge34 = new Challenge34();
-		challenge34.findMatchingCharacters();
+//		MatchingCharacters challenge34 = new MatchingCharacters();
+//		challenge34.findMatchingCharacters();
+		
+		Challenge35 challenge35 = new Challenge35();
+		challenge35.findFour();
 
 
 		
@@ -438,6 +441,15 @@ Contents after reversing it back using Collections.reverse() method :
 _____________________________________________________
 
 Challenge34:
+
+First word is a match
+Second word is a match
+Third word is NOT a match
+Overall, NOT all words matched!
+
+___________________________________________________
+
+Challenge35:
 
 
 ___________________________________________________
