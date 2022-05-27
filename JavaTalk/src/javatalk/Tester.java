@@ -114,8 +114,8 @@ public class Tester {
 //		MatchingCharacters challenge34 = new MatchingCharacters();
 //		challenge34.findMatchingCharacters();
 		
-		Challenge35 challenge35 = new Challenge35();
-		challenge35.findFour();
+		StringReverse challenge35 = new StringReverse();
+		challenge35.reverseWords();
 
 
 		
@@ -451,8 +451,13 @@ ___________________________________________________
 
 Challenge35:
 
+string given a in words Reverse 
 
 ___________________________________________________
+
+Challenge36:
+
+____________________________________________________
 
 
 */
