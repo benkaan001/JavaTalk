@@ -114,8 +114,11 @@ public class Tester {
 //		MatchingCharacters challenge34 = new MatchingCharacters();
 //		challenge34.findMatchingCharacters();
 		
-		StringReverse challenge35 = new StringReverse();
-		challenge35.reverseWords();
+//		StringReverse challenge35 = new StringReverse();
+//		challenge35.reverseWords();
+		
+		MaximumProduct challenge36 = new MaximumProduct();
+		challenge36.maximumProduct();
 
 
 		
@@ -457,7 +460,14 @@ ___________________________________________________
 
 Challenge36:
 
+Maximum numbers are: 7 and 8
+Maximum product is: 56
 ____________________________________________________
 
+
+Challenge37:
+
+
+___________________________________________________
 
 */
