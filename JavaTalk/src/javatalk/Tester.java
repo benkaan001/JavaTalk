@@ -117,8 +117,11 @@ public class Tester {
 //		StringReverse challenge35 = new StringReverse();
 //		challenge35.reverseWords();
 		
-		MaximumProduct challenge36 = new MaximumProduct();
-		challenge36.maximumProduct();
+//		MaximumProduct challenge36 = new MaximumProduct();
+//		challenge36.maximumProduct();
+		
+		NoAlternatingChars challenge37 = new NoAlternatingChars();
+		challenge37.alternatingCharacters();
 
 
 		
@@ -467,7 +470,12 @@ ____________________________________________________
 
 Challenge37:
 
+4
 
 ___________________________________________________
+
+Challenge38:
+
+_____________________________________________
 
 */
