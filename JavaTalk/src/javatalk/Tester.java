@@ -120,8 +120,11 @@ public class Tester {
 //		MaximumProduct challenge36 = new MaximumProduct();
 //		challenge36.maximumProduct();
 		
-		NoAlternatingChars challenge37 = new NoAlternatingChars();
-		challenge37.alternatingCharacters();
+//		NoAlternatingChars challenge37 = new NoAlternatingChars();
+//		challenge37.alternatingCharacters();
+		
+		ChangingIndexNum challenge38 = new ChangingIndexNum();
+		challenge38.arrayIndex();
 
 
 		
@@ -475,6 +478,12 @@ Challenge37:
 ___________________________________________________
 
 Challenge38:
+
+New Array values after 33 is inserted at index 3
+100,20,35,33,400,330,8,
+sorted array values 
+8,20,33,35,100,330,400,
+Given number 33 now is at index 2
 
 _____________________________________________
 
