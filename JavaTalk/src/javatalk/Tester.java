@@ -123,10 +123,13 @@ public class Tester {
 //		NoAlternatingChars challenge37 = new NoAlternatingChars();
 //		challenge37.alternatingCharacters();
 		
-		ChangingIndexNum challenge38 = new ChangingIndexNum();
-		challenge38.arrayIndex();
-
-
+//		ChangingIndexNum challenge38 = new ChangingIndexNum();
+//		challenge38.arrayIndex();
+		
+		Challenge39 challenge39 = new Challenge39();
+		challenge39.test();
+		
+		
 		
 		
 		
@@ -486,5 +489,17 @@ sorted array values
 Given number 33 now is at index 2
 
 _____________________________________________
+
+Challenge39:
+
+[1, 1, 2, 2, 3, 3, 3, 4, 4, 4, 5]
+3
+_______________________________________________
+
+Challenge40:
+
+
+
+_______________________________________________
 
 */
