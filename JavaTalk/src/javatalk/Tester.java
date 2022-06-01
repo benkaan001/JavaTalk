@@ -126,8 +126,11 @@ public class Tester {
 //		ChangingIndexNum challenge38 = new ChangingIndexNum();
 //		challenge38.arrayIndex();
 		
-		Challenge39 challenge39 = new Challenge39();
-		challenge39.test();
+//		Challenge39 challenge39 = new Challenge39();
+//		challenge39.test();
+		
+		NextTenLeapYears challenge40 = new NextTenLeapYears();
+		challenge40.printNextTenLeapYear();
 		
 		
 		
@@ -498,8 +501,14 @@ _______________________________________________
 
 Challenge40:
 
-
+[2020, 2024, 2028, 2032, 2036, 2040, 2044, 2048, 2052, 2056]
 
 _______________________________________________
+
+Challenge41:
+
+
+____________________________________________________
+
 
 */
