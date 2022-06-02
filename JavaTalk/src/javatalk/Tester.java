@@ -129,12 +129,11 @@ public class Tester {
 //		Challenge39 challenge39 = new Challenge39();
 //		challenge39.test();
 		
-		NextTenLeapYears challenge40 = new NextTenLeapYears();
-		challenge40.printNextTenLeapYear();
+//		NextTenLeapYears challenge40 = new NextTenLeapYears();
+//		challenge40.printNextTenLeapYear();
 		
-		
-		
-		
+		Challenge41 challenge41 = new Challenge41();
+		challenge41.getAnswer();		
 		
 		
 		
@@ -507,8 +506,13 @@ _______________________________________________
 
 Challenge41:
 
+Bon Appetit
 
 ____________________________________________________
 
+Challenge42:
+
+
+____________________________________________________
 
 */
