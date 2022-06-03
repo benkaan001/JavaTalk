@@ -132,10 +132,11 @@ public class Tester {
 //		NextTenLeapYears challenge40 = new NextTenLeapYears();
 //		challenge40.printNextTenLeapYear();
 		
-		Challenge41 challenge41 = new Challenge41();
-		challenge41.getAnswer();		
+//		Challenge41 challenge41 = new Challenge41();
+//		challenge41.getAnswer();		
 		
-		
+		MinimumAbsoluteDifferenceInArray challenge42 = new MinimumAbsoluteDifferenceInArray();
+		challenge42.minAbsDiff();
 		
 		
 		
@@ -512,7 +513,11 @@ ____________________________________________________
 
 Challenge42:
 
+1
 
 ____________________________________________________
 
+Challenge43:
+
+___________________________________________________
 */
