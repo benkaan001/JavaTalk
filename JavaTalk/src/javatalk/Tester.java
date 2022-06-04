@@ -135,9 +135,11 @@ public class Tester {
 //		Challenge41 challenge41 = new Challenge41();
 //		challenge41.getAnswer();		
 		
-		MinimumAbsoluteDifferenceInArray challenge42 = new MinimumAbsoluteDifferenceInArray();
-		challenge42.minAbsDiff();
+//		MinimumAbsoluteDifferenceInArray challenge42 = new MinimumAbsoluteDifferenceInArray();
+//		challenge42.minAbsDiff();
 		
+		Challenge43 challenge43 = new Challenge43();
+		challenge43.getAnswer();
 		
 		
 		
@@ -514,10 +516,19 @@ ____________________________________________________
 Challenge42:
 
 1
-
 ____________________________________________________
 
 Challenge43:
 
+Solution using ArrayList: 4
+Toy count using int Arr is: 4
 ___________________________________________________
+
+Challenge44:
+
+
+
+_____________________________________________________
+
+
 */
