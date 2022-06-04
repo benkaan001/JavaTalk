@@ -138,11 +138,12 @@ public class Tester {
 //		MinimumAbsoluteDifferenceInArray challenge42 = new MinimumAbsoluteDifferenceInArray();
 //		challenge42.minAbsDiff();
 		
-		Challenge43 challenge43 = new Challenge43();
-		challenge43.getAnswer();
+//		Challenge43 challenge43 = new Challenge43();
+//		challenge43.getAnswer();
 		
-		
-		
+		Challenge44 challenge44 = new Challenge44();
+		challenge44.maxMin();
+		challenge44.arrayApproach();
 		
 		
 		
@@ -526,8 +527,21 @@ ___________________________________________________
 
 Challenge44:
 
+sorted array = [10, 20, 30, 100, 200, 300, 1000]
+difference: 30 - 10 = 20
+difference: 100 - 20 = 80
+difference: 200 - 30 = 170
+difference: 300 - 100 = 200
+difference: 1000 - 200 = 800
+min diff is: 20
 
-
+sorted array = [100, 200, 300, 350, 400, 401, 402]
+difference: 300 - 100 = 200
+difference: 350 - 200 = 150
+difference: 400 - 300 = 100
+difference: 401 - 350 = 51
+difference: 402 - 400 = 2
+min diff is: 2
 _____________________________________________________
 
 
