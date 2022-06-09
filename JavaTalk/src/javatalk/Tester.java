@@ -145,9 +145,11 @@ public class Tester {
 //		challenge44.maxMin();
 //		challenge44.arrayApproach();
 		
-		Challenge45 challenge45 = new Challenge45();
-		challenge45.absDiff();
+//		Challenge45 challenge45 = new Challenge45();
+//		challenge45.absDiff();
 		
+		FindUncommonStringElements challenge46 = new FindUncommonStringElements();
+		challenge46.getAnswer();
 		
 		
 	}
@@ -555,6 +557,15 @@ Minimum Absolute Difference = 3
 ________________________________________________
 
 Challenge46:
+
+checkout items along with total bill: MILK-CHIPS-44
+items out of stock: chicken-coke-0
+
+__________________________________________________
+
+Challenge47:
+
+
 
 
 */
