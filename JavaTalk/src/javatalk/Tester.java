@@ -141,10 +141,12 @@ public class Tester {
 //		Challenge43 challenge43 = new Challenge43();
 //		challenge43.getAnswer();
 		
-		Challenge44 challenge44 = new Challenge44();
-		challenge44.maxMin();
-		challenge44.arrayApproach();
+//		Challenge44 challenge44 = new Challenge44();
+//		challenge44.maxMin();
+//		challenge44.arrayApproach();
 		
+		Challenge45 challenge45 = new Challenge45();
+		challenge45.absDiff();
 		
 		
 		
@@ -543,6 +545,16 @@ difference: 401 - 350 = 51
 difference: 402 - 400 = 2
 min diff is: 2
 _____________________________________________________
+
+Challenge45:
+
+Maximum Absolute Difference = 599999
+Minimum Absolute Difference = 3
+
+
+________________________________________________
+
+Challenge46:
 
 
 */
