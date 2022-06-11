@@ -148,8 +148,11 @@ public class Tester {
 //		Challenge45 challenge45 = new Challenge45();
 //		challenge45.absDiff();
 		
-		FindUncommonStringElements challenge46 = new FindUncommonStringElements();
-		challenge46.getAnswer();
+//		FindUncommonStringElements challenge46 = new FindUncommonStringElements();
+//		challenge46.getAnswer();
+		
+		Regex2 challenge47 = new Regex2();
+		challenge47.getAnswer();
 		
 		
 	}
@@ -564,6 +567,16 @@ items out of stock: chicken-coke-0
 __________________________________________________
 
 Challenge47:
+
+T***m*** t*** pr***ct***c*** R***g***x
+Tm t prctc Rgx
+8
+Remove all NON alphanumeric values
+
+_________________________________________________
+
+Challenge 48:
+
 
 
 
