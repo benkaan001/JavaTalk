@@ -151,9 +151,11 @@ public class Tester {
 //		FindUncommonStringElements challenge46 = new FindUncommonStringElements();
 //		challenge46.getAnswer();
 		
-		Regex2 challenge47 = new Regex2();
-		challenge47.getAnswer();
+//		Regex2 challenge47 = new Regex2();
+//		challenge47.getAnswer();
 		
+		Challenge48 challenge48 = new Challenge48();
+		challenge48.getAnswer();	
 		
 	}
 
@@ -577,7 +579,12 @@ _________________________________________________
 
 Challenge 48:
 
+No time out of bound solution is 3
+This works only for small range. The solution is 3
 
+______________________________________________________
+
+Challenge 49:
 
 
 
