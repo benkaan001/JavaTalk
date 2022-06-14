@@ -153,10 +153,12 @@ public class Tester {
 		
 //		Regex2 challenge47 = new Regex2();
 //		challenge47.getAnswer();
+	
+//		Challenge48 challenge48 = new Challenge48();
+//		challenge48.getAnswer();	
 		
-		Challenge48 challenge48 = new Challenge48();
-		challenge48.getAnswer();	
-		
+		Challenge49 challenge49 = new Challenge49();
+		challenge49.getAnswer();	
 	}
 
 }
@@ -586,6 +588,13 @@ ______________________________________________________
 
 Challenge 49:
 
+Yes
 
+_____________________________________________________
+
+Challenge 50:
+
+
+____________________________________________________
 
 */
