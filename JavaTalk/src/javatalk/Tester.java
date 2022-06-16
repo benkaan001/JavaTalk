@@ -157,8 +157,13 @@ public class Tester {
 //		Challenge48 challenge48 = new Challenge48();
 //		challenge48.getAnswer();	
 		
-		Challenge49 challenge49 = new Challenge49();
-		challenge49.getAnswer();	
+//		Challenge49 challenge49 = new Challenge49();
+//		challenge49.getAnswer();	
+		
+		Challenge50 challenge50 = new Challenge50();
+		challenge50.getAnswer();
+		
+		
 	}
 
 }
@@ -594,7 +599,14 @@ _____________________________________________________
 
 Challenge 50:
 
-
+1 2 4 5 6 7 
+-------------
+8 9 10 
 ____________________________________________________
+
+Challenge 51:
+
+
+___________________________________________________
 
 */
