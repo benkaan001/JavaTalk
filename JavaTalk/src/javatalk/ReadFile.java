@@ -31,7 +31,6 @@ public class ReadFile {
 		// We are adding this third line via cat >> file1 command
 		// ...
 		
-		
 	}
 
 }
