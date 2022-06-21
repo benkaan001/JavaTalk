@@ -169,8 +169,11 @@ public class Tester {
 //		Challenge52 challenge52 = new Challenge52();
 //		challenge52.getAnswer();
 		
-		Challenge53 challenge53= new Challenge53();
-		challenge53.getAnswer();	
+//		Challenge53 challenge53= new Challenge53();
+//		challenge53.getAnswer();	
+		
+		ReadFile challenge54 = new ReadFile();
+		challenge54.read();
 		
 		
 		
@@ -633,7 +636,15 @@ _____________________________________________________
 
 Challenge 54:
 
-
+This is part of BIG DATA session
+We are adding this third line via cat >> file1 command
+...
 ___________________________________________________
+
+Challenge 55:
+
+
+
+____________________________________________________
 
 */
