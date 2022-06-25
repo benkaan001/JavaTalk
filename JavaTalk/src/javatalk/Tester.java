@@ -175,8 +175,12 @@ public class Tester {
 //		ReadFile challenge54 = new ReadFile();
 //		challenge54.read();
 		
-		ReadFile2 challenge55 = new ReadFile2();
-		challenge55.read();
+//		ReadFile2 challenge55 = new ReadFile2();
+//		challenge55.read();
+		
+		WriteFile challenge56 = new WriteFile();
+		challenge56.write();
+		challenge56.read();
 		
 		
 		
@@ -651,6 +655,15 @@ ____________________________________________________
 
 Challenge 56:
 
+List of kitties: 
+Fluffy
+Mr.Trouble
+Butter Ball
+
 ___________________________________________________
+
+Challenge 57:
+
+______________________________________________
 
 */
