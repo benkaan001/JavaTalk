@@ -178,9 +178,12 @@ public class Tester {
 //		ReadFile2 challenge55 = new ReadFile2();
 //		challenge55.read();
 		
-		WriteFile challenge56 = new WriteFile();
-		challenge56.write();
-		challenge56.read();
+//		WriteFile challenge56 = new WriteFile();
+//		challenge56.write();
+//		challenge56.read();
+		
+		PasswordConfirm challenge57 = new PasswordConfirm();
+		challenge57.confirmPassword();
 		
 		
 		
@@ -664,6 +667,18 @@ ___________________________________________________
 
 Challenge 57:
 
+Let's go over the rules real quick...
+1. Password must have a minimum of 8 characters.
+2. Password must consist of only LETTERS and DIGITS.
+3. Password must contain minimum 2 digits.
+bigsecret123
+The password you entered bigsecret123 is valid!
+You got it!!!
+
 ______________________________________________
+
+Challenge 58:
+
+_____________________________________________
 
 */
