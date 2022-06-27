@@ -182,9 +182,12 @@ public class Tester {
 //		challenge56.write();
 //		challenge56.read();
 		
-		PasswordConfirm challenge57 = new PasswordConfirm();
-		challenge57.confirmPassword();
+//		PasswordConfirm challenge57 = new PasswordConfirm();
+//		challenge57.confirmPassword();
 		
+		Challenge58 challenge58 = new Challenge58();
+		challenge58.getAnswer();
+//		
 		
 		
 		
