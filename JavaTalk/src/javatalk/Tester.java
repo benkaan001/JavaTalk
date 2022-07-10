@@ -185,11 +185,11 @@ public class Tester {
 //		PasswordConfirm challenge57 = new PasswordConfirm();
 //		challenge57.confirmPassword();
 		
-		Challenge58 challenge58 = new Challenge58();
-		challenge58.getAnswer();
-//		
+//		Challenge58 challenge58 = new Challenge58();
+//		challenge58.getAnswer();
 		
-		
+		Challenge59 challenge59 = new Challenge59();
+		challenge59.getAnswer();	
 		
 	}
 
@@ -687,7 +687,12 @@ ________________________________________
 
 Challenge 59:
 
+2
 ______________________________________________
+
+Challenge 60:
+
+__________________________________________________
 
 
 */
